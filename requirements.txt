@@ -1,0 +1,8 @@
+chromadb==0.5.4
+faiss-cpu==1.8.0.post1 ; platform_system != "Windows"  # optional fallback if you later want FAISS
+sentence-transformers==3.0.1
+torch>=2.2.0
+PyMuPDF==1.24.8
+python-docx==1.1.2
+beautifulsoup4==4.12.3
+tqdm==4.66.4
